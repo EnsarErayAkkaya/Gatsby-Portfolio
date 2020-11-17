@@ -27,9 +27,9 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Cara - @lekoarts/gatsby-theme-cara`,
-                short_name: `Cara`,
-                description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+                name: `Ensar Eray Akkaya`,
+                short_name: `EEA`,
+                description: `Ensar Eray Akkaya - Porfolio`,
                 start_url: `/`,
                 background_color: `#141821`,
                 theme_color: `#f6ad55`,
